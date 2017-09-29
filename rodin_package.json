@@ -1,0 +1,8 @@
+{
+  "name": "threejs-loaders",
+  "main": "index.js",
+  "version": "r76",
+  "dependencies": {
+    "threejs/main": "r87"
+  }
+}
